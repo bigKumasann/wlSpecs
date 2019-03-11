@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.summary = '自定义组件库'
   s.homepage = 'https://github.com/bigKumasann/WLKit.git'
-  s.author = { 'Olivier Poitrey' => 'rs@dailymotion.com' }
+  s.author = { 'Olivier Poitrey' => 'wanglei19910924@126.com' }
   s.source = { :git => 'https://github.com/bigKumasann/WLKit.git', :tag => s.version.to_s }
 
   s.description = 'This library provides a category for UIImageView with support for remote '      \
