@@ -22,6 +22,7 @@ Pod::Spec.new do |s|
                   'and performances!'
 
   s.requires_arc = true
+  s.source_files = 'WLKit/*.{h,m}'
   s.dependency 'Masonry', '~> 1.1.0'
   
 end
